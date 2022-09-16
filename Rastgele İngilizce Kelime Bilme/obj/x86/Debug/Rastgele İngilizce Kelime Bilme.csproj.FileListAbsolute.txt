@@ -1,0 +1,61 @@
+C:\Users\Ogrenci\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Form1.resources
+C:\Users\Ogrenci\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.csproj.GenerateResource.Cache
+C:\Users\Ogrenci\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\bin\Debug\Rastgele İngilizce Kelime Bilme.exe
+C:\Users\Ogrenci\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\bin\Debug\Rastgele İngilizce Kelime Bilme.pdb
+C:\Users\Ogrenci\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.exe
+C:\Users\Ogrenci\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.pdb
+C:\Users\Ogrenci\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Kelime_Girişi.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.exe
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.pdb
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\bin\Debug\Rastgele İngilizce Kelime Bilme.exe
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\bin\Debug\Rastgele İngilizce Kelime Bilme.pdb
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.csprojResolveAssemblyReference.cache
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Form1.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Kelime_Girişi.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Properties.Resources.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.csproj.GenerateResource.Cache
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Resources.RastgeleKelime.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.RastgeleKelimeBilmece.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.KendiKelimelerinİleBilmece.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Form2.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\bin\Debug\Rastgele İngilizce Kelime Bilme.exe
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\bin\Debug\Rastgele İngilizce Kelime Bilme.pdb
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.csprojAssemblyReference.cache
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Form2.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Form1.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Kelime_Girişi.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.KendiKelimelerinİleBilmece.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Properties.Resources.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.RastgeleKelimeBilmece.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Resources.RastgeleKelime.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.csproj.GenerateResource.cache
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.csproj.CoreCompileInputs.cache
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.exe
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.pdb
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.rastgele1dakika.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.rastgele2dakika.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.exe
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.pdb
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\bin\Debug\Rastgele İngilizce Kelime Bilme.exe
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\bin\Debug\Rastgele İngilizce Kelime Bilme.pdb
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.csprojResolveAssemblyReference.cache
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Form2.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Form1.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Kelime_Girişi.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Kayıt_Ol.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.KendiKelimelerinİleBilmece.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Properties.Resources.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.rastgele1dakika.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.rastgele2dakika.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.rastgele3dakika.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.RastgeleKelimeBilmece.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Resources.RastgeleKelime.resources
+C:\Users\amp-2737\Downloads\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele İngilizce Kelime Bilme.csproj.GenerateResource.Cache
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.rastgele3dakika.resources
+C:\Users\kurug\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Kendikelimelerinmod.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.Kendikelimelerinmod.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.rastgele1dakika.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.rastgele2dakika.resources
+C:\Users\amp-2737\Desktop\Rastgele İngilizce Kelime Bilme\Rastgele İngilizce Kelime Bilme\obj\x86\Debug\Rastgele_İngilizce_Kelime_Bilme.rastgele3dakika.resources

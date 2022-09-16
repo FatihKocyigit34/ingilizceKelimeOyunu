@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C4CF8ADB-5FDA-42E9-828D-BCD1ADAC6167}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Rastgele_İngilizce_Kelime_Bilme</RootNamespace>
+    <AssemblyName>Rastgele İngilizce Kelime Bilme</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Core, Version=1.11.5.21, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9" />
+    <Reference Include="Bunifu.UI.WinForm.BunifuShadowPanel">
+      <HintPath>bin\Debug\Bnfu_1.5.3_crack\Bunifu.UI.WinForm.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>bin\Debug\Bnfu_1.5.3_crack\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giriş Ekranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giriş Ekranı.Designer.cs">
+      <DependentUpon>Giriş Ekranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anamenü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anamenü.Designer.cs">
+      <DependentUpon>Anamenü.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kendikelimelerinmod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kendikelimelerinmod.Designer.cs">
+      <DependentUpon>Kendikelimelerinmod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KendiKelimelerinİleBilmece.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KendiKelimelerinİleBilmece.Designer.cs">
+      <DependentUpon>KendiKelimelerinİleBilmece.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rastgele1dakika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rastgele1dakika.Designer.cs">
+      <DependentUpon>rastgele1dakika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rastgele2dakika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rastgele2dakika.Designer.cs">
+      <DependentUpon>rastgele2dakika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rastgele3dakika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rastgele3dakika.Designer.cs">
+      <DependentUpon>rastgele3dakika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RastgeleKelimeBilmece.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RastgeleKelimeBilmece.Designer.cs">
+      <DependentUpon>RastgeleKelimeBilmece.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\RastgeleKelime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\RastgeleKelime.Designer.cs">
+      <DependentUpon>RastgeleKelime.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giriş Ekranı.resx">
+      <DependentUpon>Giriş Ekranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anamenü.resx">
+      <DependentUpon>Anamenü.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kendikelimelerinmod.resx">
+      <DependentUpon>Kendikelimelerinmod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KendiKelimelerinİleBilmece.resx">
+      <DependentUpon>KendiKelimelerinİleBilmece.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rastgele1dakika.resx">
+      <DependentUpon>rastgele1dakika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rastgele2dakika.resx">
+      <DependentUpon>rastgele2dakika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rastgele3dakika.resx">
+      <DependentUpon>rastgele3dakika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RastgeleKelimeBilmece.resx">
+      <DependentUpon>RastgeleKelimeBilmece.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\RastgeleKelime.resx">
+      <DependentUpon>RastgeleKelime.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JEE-Advanced-2020.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\English Training.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\English Training1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\English Training2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\training.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rastgele.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mor buton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kapalı kahverengi buton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rastgele %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adsız tasarım.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detaylı Bilgi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detaylı Bilgi %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detaylı Bilgi %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detaylı Bilgi %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detaylı Bilgi %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detaylı Bilgi %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SIRALAMA TABLOSU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SIRALAMA TABLOSU1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zorluk Seviyeleri Turuncu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detaylı Bilgi %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mor Arka Plan Ve Buton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zorluk Seviyeleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zorluk Seviyeleri %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detaylı Bilgi %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detaylı Bilgi %286%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sıralam Tablosu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jiara Martins.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C4F0  SOFTWARE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SIRALAMA TABLOSU2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adsız tasarım %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adsız tasarım %282%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
