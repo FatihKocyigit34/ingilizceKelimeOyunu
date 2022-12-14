@@ -1,5 +1,5 @@
 # ingilizceKelimeOyunu
-Karşınıza çıkan İngilizce kelimelerin Türkçesini bilmeye çalıştığınız oyun.
+Rastgele veya sizin belirlediğiniz ingilizce kelimelerin türkçesini yazarak bilmeye çalıştığınız bir oyun projesidir 
 
 
 
